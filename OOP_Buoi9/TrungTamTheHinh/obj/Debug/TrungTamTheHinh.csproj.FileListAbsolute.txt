@@ -1,0 +1,8 @@
+C:\Users\May1\source\repos\OOP_Buoi9\TrungTamTheHinh\bin\Debug\TrungTamTheHinh.exe.config
+C:\Users\May1\source\repos\OOP_Buoi9\TrungTamTheHinh\bin\Debug\TrungTamTheHinh.exe
+C:\Users\May1\source\repos\OOP_Buoi9\TrungTamTheHinh\bin\Debug\TrungTamTheHinh.pdb
+C:\Users\May1\source\repos\OOP_Buoi9\TrungTamTheHinh\obj\Debug\TrungTamTheHinh.csproj.AssemblyReference.cache
+C:\Users\May1\source\repos\OOP_Buoi9\TrungTamTheHinh\obj\Debug\TrungTamTheHinh.csproj.SuggestedBindingRedirects.cache
+C:\Users\May1\source\repos\OOP_Buoi9\TrungTamTheHinh\obj\Debug\TrungTamTheHinh.csproj.CoreCompileInputs.cache
+C:\Users\May1\source\repos\OOP_Buoi9\TrungTamTheHinh\obj\Debug\TrungTamTheHinh.exe
+C:\Users\May1\source\repos\OOP_Buoi9\TrungTamTheHinh\obj\Debug\TrungTamTheHinh.pdb
